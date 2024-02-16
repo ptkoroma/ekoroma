@@ -42650,3 +42650,10 @@ a.u-link.u-text-hover-grey-90:hover {
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
+
+
+ .u-active-palette-5-dark-2.u-align-left.u-border-none.u-btn.u-btn-rectangle.u-button-style.u-custom-font.u-font-oswald.u-hover-palette-5-dark-2.u-palette-1-base.u-radius-0.u-text-active-white.u-text-body-alt-color.u-text-hover-white.u-btn-2 {
+  margin-right: 58px;
+  text-transform: none;
+  padding: 10px;
+}
